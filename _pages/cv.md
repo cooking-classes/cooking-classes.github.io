@@ -11,20 +11,9 @@ redirect_from:
 
 Work experience
 ======
-* Summer 2016: Research Intern
-  * Cambridge University
-  * Designed CFD simulations, making use of C/C++, Bash and Fortran.
-  * Cambridge, Cambridgeshire, United Kingdom
-
-* 2017 - 2019: Research Assistant
-  * Ghent University
-  * Developed Quantum Many-Body theory and simulations, making use of Julia and Python.
-  * Gent, Oost-Vlaanderen, België
-
-* 2019 - 2020: Research Scientist
-  * GTN ltd.
-  * Refined and benchmarked design algorithms for small molecule enzyme inhibitors, making use of Python and C++.
-  * London, Greater London, United Kingdom
+* Research Intern, *Designed CFD simulations, making use of C/C++, Bash, and Fortran*, Cambridge University, Summer 2016, Cambridge, United Kingdom
+* Research Assistant, *Developed Quantum Many-Body theory and simulations, making use of Julia and Python*, Ghent University, 2017 - 2019, Ghent, Belgium
+* Research Scientist, *Refined and benchmarked design algorithms for small molecule enzyme inhibitors, making use of Python and C++*, GTN ltd., 2019 - 2020, London, United Kingdom
   
 Education
 ======
