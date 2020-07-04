@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonas Verhelen"
+title                    : "Jonas Verhellen"
 title_separator          : "-"
-name                     : &name "Jonas Verhelen"
+name                     : &name "Jonas Verhellen"
 description              : &description "Academic Homepage"
 url                      : https://jonas-verhellen.github.io 
 baseurl                  : "" 
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jonas Verhellen"
   avatar           : "profile.png"
-  bio              : "Applying mathematical models to link risk variants to gene expression, protein levels and electrophysiological functions of neurons."
-  location         : "Oslo, Norway"
-  employer         : "University of Oslo"
+  bio              : "Applying mathematical models linking risk variants to gene expression, protein levels and electrophysiological functions of neurons."
+  location         : "University of Oslo, Oslo, Norway"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            :
