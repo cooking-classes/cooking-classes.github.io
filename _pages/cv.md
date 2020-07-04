@@ -8,18 +8,18 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Work experience
-======
-* Research Intern, *Designed CFD simulations, making use of C/C++, Bash, and Fortran*, Cambridge University, Summer 2016, Cambridge, United Kingdom
-* Research Assistant, *Developed Quantum Many-Body theory and simulations, making use of Julia and Python*, Ghent University, 2017 - 2019, Ghent, Belgium
-* Research Scientist, *Refined and benchmarked design algorithms for small molecule enzyme inhibitors, making use of Python and C++*, GTN ltd., 2019 - 2020, London, United Kingdom
   
 Education
 ======
 * B.Sc. in Physics and Astronomy, Magna Cum Laude, Vrije Universiteit Brussel, 2015
 * M.Sc. in Physics and Astronomy, Summa Cum Laude, Vrije Universiteit Brussel, 2017
 * Ph.D in Computational Neuroscience, University of Oslo, 2023 (expected)
+
+Work experience
+======
+* Research Intern, Cambridge University, Summer 2016, Cambridge, United Kingdom: Designed CFD simulations, making use of C/C++, Bash, and Fortran.
+* Research Assistant, Ghent University, 2017 - 2019, Ghent, Belgium: Developed Quantum Many-Body theory and simulations, making use of Julia and Python
+* Research Scientist, GTN ltd., 2019 - 2020, London, United Kingdom: Refined and benchmarked design algorithms for small molecule enzyme inhibitors, making use of Python and C++
 
 Conferences
 ======
