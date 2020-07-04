@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.Sc. in Physics and Astronomy, Magna Cum Laude, Vrije Universiteit Brussel, 2015
-* M.Sc. in Physics and Astronomy, Summa Cum Laude, Vrije Universiteit Brussel, 2017
-* Ph.D in Computational Neuroscience, University of Oslo, 2023 (expected)
-
 Work experience
 ======
 * Summer 2016: Research Intern
@@ -29,15 +23,14 @@ Work experience
 
 * 2019 - 2020: Research Scientist
   * GTN ltd.
-  * Refined and benchmarked design algorithms for small molecule enzyme inhibitors.
+  * Refined and benchmarked design algorithms for small molecule enzyme inhibitors, making use of Python and C++.
   * London, Greater London, United Kingdom
   
-Industry Skills
+Education
 ======
-* Technical hiring, and patent development
-* Scientific computing, and numerical analysis. 
-* Agile methodology, DevOps, and version control.
-* Cheminformatics, machine learning, and data science.
+* B.Sc. in Physics and Astronomy, Magna Cum Laude, Vrije Universiteit Brussel, 2015
+* M.Sc. in Physics and Astronomy, Summa Cum Laude, Vrije Universiteit Brussel, 2017
+* Ph.D in Computational Neuroscience, University of Oslo, 2023 (expected)
 
 Conferences
 ======
@@ -64,5 +57,5 @@ Teaching
 
 Service and leadership
 ======
-* Mathematics tutor, Solutio, 2015 - 2017, Hoeilaart, Belgium
-* Student representative, Vrije Universiteit Brussel, 2012- 2017, Brussels, Belgium
+* Mathematics Tutor, Solutio, 2015 - 2017, Hoeilaart, Belgium
+* Student Representative, Vrije Universiteit Brussel, 2012- 2017, Brussels, Belgium
