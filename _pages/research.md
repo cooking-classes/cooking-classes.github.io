@@ -5,6 +5,7 @@ excerpt: ""
 author_profile: true
 redirect_from: 
   - /research/
+  - /research.html
 ---
 
 I am currently doing a PhD as part of the 4MENT convergence environment at the life sciences cluster of the University of Oslo. 
