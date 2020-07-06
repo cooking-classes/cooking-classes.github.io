@@ -11,3 +11,9 @@ redirect_from:
   
 Master Thesis 
 ======
+
+<object data="https://github.com/Jonas-Verhellen/jonas-verhellen.github.io/blob/master/files/Thesis.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/Jonas-Verhellen/jonas-verhellen.github.io/blob/master/files/Thesis.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Jonas-Verhellen/jonas-verhellen.github.io/blob/master/files/Thesis.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
