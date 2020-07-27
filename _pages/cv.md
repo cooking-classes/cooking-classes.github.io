@@ -28,6 +28,8 @@ Conferences
 * Quantum Paths in Low Dimensions: Theory and Experiment, The Erwin Schrödinger Institute, May 2018, Vienna, Austria
 * Joint Workshop in Theoretical and Mathematical Physicists, Theory at Sea, June 2018, Oostduinkerke, Belgium
 * Optimising, Renormalising, Evolving, and Quantising Tensor Networks, Max Planck Institute for Complex Systems, June 2018, Dresden, Germany
+* 29th Annual Computational Neuroscience Meeting, Organization for Computational Neurosciences, July 2020, Melbourne (online), Australia
+* 21st Annual Drug Discovery Summit & 2nd Annual Neuroscience Drug Discovery Congress, Oxford Global, July 2020, Berlin (online), Germany
 
 Schools
 ======
