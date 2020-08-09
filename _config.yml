@@ -11,9 +11,9 @@ title                    : "Cooking Classes"
 title_separator          : "-"
 name                     : &name "Cooking Classes"
 description              : &description "FRIENDLY COOKING - EDUCATIONAL COOKING SUSTAINABLE FOOD - HEALTH EDUCATION"
-url                      : https://jonas-verhellen.github.io 
+url                      : https://cooking-classes.github.io
 baseurl                  : "" 
-repository               : "jonas-verhellen/jonas-verhellen.github.io"
+repository               : "cooking-classes/cooking-classes.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
