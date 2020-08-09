@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonas Verhellen"
+title                    : "Cooking Classes"
 title_separator          : "-"
-name                     : &name "Jonas Verhellen"
-description              : &description "Academic Homepage"
+name                     : &name "Cooking Classes"
+description              : &description "FRIENDLY COOKING - EDUCATIONAL COOKING SUSTAINABLE FOOD - HEALTH EDUCATION"
 url                      : https://jonas-verhellen.github.io 
 baseurl                  : "" 
 repository               : "jonas-verhellen/jonas-verhellen.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@jonas_verhellen"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jonas Verhellen"
-  avatar           : "myAvatar.png"
-  bio              : "Computational Psychiatry: combining multimodal models, molecular genetics and electrophysiology with precision drug design."
-  location         : "University of Oslo, Oslo"
+  name             : "Cooking Classes"
+  avatar           : "logo.png"
+  bio              : "FRIENDLY COOKING - EDUCATIONAL COOKING - SUSTAINABLE FOOD - HEALTH EDUCATION"
+  location         : ""
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "jverhell@gmail.com"
+  email            : ""
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Jonas-Verhellen"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@jonas_verhellen"
+  twitter          :
   vine             :
   weibo            :
   xing             :
