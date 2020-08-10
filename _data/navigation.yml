@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "About"
+  - title: "Project"
     url: /about/
 
-  - title: "Research"
+  - title: "Missie"
     url: /research/
     
-  - title: "Blog"
+  - title: "Partners"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Gerechten"
     url: /cv/
