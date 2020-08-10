@@ -9,44 +9,18 @@ redirect_from:
 
 {% include base_path %}
   
-Education
+Event 1
 ======
-* B.Sc. in Physics and Astronomy, Magna Cum Laude, Vrije Universiteit Brussel, 2015
-* M.Sc. in Physics and Astronomy, Summa Cum Laude, Vrije Universiteit Brussel, 2017
-* Ph.D in Computational Neuroscience, University of Oslo, 2023 (expected)
+Etiam laoreet metus at ipsum consectetur, vel aliquet metus convallis. Morbi consequat tincidunt justo. Nunc tincidunt ac nulla feugiat dignissim. Pellentesque sit amet augue urna. Cras pulvinar interdum ex sed venenatis. Pellentesque vitae justo eget justo porta tempus. Integer sapien arcu, porta a fermentum quis, dictum vitae massa. Quisque luctus suscipit purus sed interdum. Nam efficitur consequat rutrum.
 
-Work experience
+Event 2
 ======
-* Research Intern, Cambridge University, Summer 2016, Cambridge, United Kingdom: Designed CFD simulations, making use of C/C++, Bash, and Fortran.
-* Research Assistant, Ghent University, 2017 - 2019, Ghent, Belgium: Developed Quantum Many-Body theory and simulations, making use of Julia and Python
-* Research Scientist, GTN ltd., 2019 - 2020, London, United Kingdom: Refined and benchmarked design algorithms for small molecule enzyme inhibitors, making use of Python and C++
+Cras non elit nec risus finibus convallis. In vitae porttitor justo. In auctor congue nunc, non commodo odio iaculis sed. Nunc molestie lorem in ipsum congue congue. Praesent sit amet orci tellus. Pellentesque dignissim odio ut orci porttitor, id pharetra nisi rutrum. Aliquam condimentum est ac libero pulvinar, ut sagittis elit faucibus. Sed pharetra magna in erat interdum imperdiet. Phasellus iaculis velit non lectus pretium mattis. Vestibulum nunc nibh, dignissim in orci id, scelerisque dapibus orci.
 
-Conferences
+Event 3
 ======
-* Tensor Networks: Structure, Applications, and Holography, Simons Center for Geometry and Physics, December 2017, Stony Brook, USA
-* Cosmological Frontiers in Fundamental Physics, Solvay - Perimeter Institute - APC Paris, May 2018, Brussels, Belgium
-* Quantum Paths in Low Dimensions: Theory and Experiment, The Erwin Schrödinger Institute, May 2018, Vienna, Austria
-* Joint Workshop in Theoretical and Mathematical Physicists, Theory at Sea, June 2018, Oostduinkerke, Belgium
-* Optimising, Renormalising, Evolving, and Quantising Tensor Networks, Max Planck Institute for Complex Systems, June 2018, Dresden, Germany
-* 29th Annual Computational Neuroscience Meeting, Organization for Computational Neurosciences, July 2020, Melbourne (online), Australia
-* 21st Annual Drug Discovery Summit & 2nd Annual Neuroscience Drug Discovery Congress, Oxford Global, July 2020, Berlin (online), Germany
+In hac habitasse platea dictumst. Praesent euismod odio non quam pharetra ullamcorper. Cras nec auctor libero. Nulla facilisi. In hac habitasse platea dictumst. Phasellus eget mauris semper, varius velit sit amet, aliquet mauris. Pellentesque semper, est sit amet finibus euismod, augue ante auctor felis, id vehicula quam nunc a lacus. Nullam felis eros, tempor eget porta id, fringilla quis arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis posuere quis odio vel ornare. Suspendisse potenti. Suspendisse malesuada nulla ac euismod feugiat. Curabitur eu efficitur risus, sodales euismod turpis.
 
-Schools
+Event 4
 ======
-* IPP Summer University for Plasma Physics and Fusion Research, Max Planck Institute for Plasma Physics , September 2016, Greifswald, Germany
-* Summer School in Mathematical and Theoretical Physics, XIII Modave Summer School, September 2017, Modave, Belgium
-* European Tensor Network School, Quantum Research Group, November 2017, Ghent, Belgium
-* Summer School on Integrability in Atomic and Condensed Matter Physics, L'Ecole de Physique des Houches, August 2018, Les Houches, France
-* Summer School on Collective Behaviour in Quantum Matter, The Abdus Salam International Centre for Theoretical Physics, September 2018, Trieste, Italy
-* European Tensor Network School, Max Planck Institute for Complex Systems, November 2018, Dresden, Germany
-
-Teaching
-======
-* Introduction to Experimental Physics: Supervised first year students during their introductory course on experimental physics, graded their lab reports and was part of the oral examination committee. 
-* Electromagnetism: Guided second year students through electromagnetism exercises, wrote accompanying theory summaries, and graded the problem sets. 
-* Master Thesis Reading Committee: Participated in the evaluation of a thesis and associated oral thesis defence  on the topic of tensor networks and wavelet-theory. 
-
-Service and leadership
-======
-* Mathematics Tutor, Solutio, 2015 - 2017, Hoeilaart, Belgium
-* Student Representative, Vrije Universiteit Brussel, 2012- 2017, Brussels, Belgium
+Nunc porta consectetur nisi ut commodo. In vel risus ut turpis tincidunt facilisis eget rhoncus felis. Integer pretium, lectus et condimentum rhoncus, nibh magna ornare nunc, et ullamcorper sem massa semper arcu. Praesent vestibulum turpis sed mi fermentum pharetra. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas commodo diam id massa facilisis accumsan. Proin volutpat lectus porttitor, molestie ante eu, imperdiet dolor.
