@@ -3,11 +3,11 @@ main:
   - title: "Project"
     url: /about/
 
-  - title: "Missie"
-    url: /research/
+  - title: "Events"
+    url: /cv/
     
   - title: "Partners"
-    url: /year-archive/
+    url: /research/
     
   - title: "Gerechten"
-    url: /cv/
+    url: /year-archive/ 
