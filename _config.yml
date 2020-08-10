@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cooking Classes"
 title_separator          : "-"
 name                     : &name "Cooking Classes"
-description              : &description "FRIENDLY COOKING - EDUCATIONAL COOKING SUSTAINABLE FOOD - HEALTH EDUCATION"
+description              : &description "•FRIENDLY COOKING •EDUCATIONAL COOKING •SUSTAINABLE FOOD •HEALTH EDUCATION"
 url                      : https://cooking-classes.github.io
 baseurl                  : "" 
 repository               : "cooking-classes/cooking-classes.github.io"
