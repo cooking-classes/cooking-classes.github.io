@@ -9,18 +9,34 @@ redirect_from:
 
 {% include base_path %}
   
-Event 1
+2020
 ======
-Etiam laoreet metus at ipsum consectetur, vel aliquet metus convallis. Morbi consequat tincidunt justo. Nunc tincidunt ac nulla feugiat dignissim. Pellentesque sit amet augue urna. Cras pulvinar interdum ex sed venenatis. Pellentesque vitae justo eget justo porta tempus. Integer sapien arcu, porta a fermentum quis, dictum vitae massa. Quisque luctus suscipit purus sed interdum. Nam efficitur consequat rutrum.
+*  Markt van de makers in buurtcentrum De Wiek Leffinge, zelfgemaakte confituur en artisanale tafelnappen, elke 1 ste en 3 de zondag van de maand.
 
-Event 2
+2019
 ======
-Cras non elit nec risus finibus convallis. In vitae porttitor justo. In auctor congue nunc, non commodo odio iaculis sed. Nunc molestie lorem in ipsum congue congue. Praesent sit amet orci tellus. Pellentesque dignissim odio ut orci porttitor, id pharetra nisi rutrum. Aliquam condimentum est ac libero pulvinar, ut sagittis elit faucibus. Sed pharetra magna in erat interdum imperdiet. Phasellus iaculis velit non lectus pretium mattis. Vestibulum nunc nibh, dignissim in orci id, scelerisque dapibus orci.
+*  Imelda Instituut, Brussel, creatief koken voor Project HUMAN ism Saskia Pinas (5 S), 15 januari 2019.
+*  Gemeenschapscentrum Op Weule Sint Lambrechts Woluwe. Ecuadoriaans feesten, gevulde taco’s, 9 maart 2019.
+*  Imelda Instituut Scheut, Kookatelier Zuid-Amerikaans koken (1 B), 27 maart 2019.
+*  Vrije Basisschool Maria Boodschap, Vlaamsesteenweg 153, 1000 Brussel, Vastenactie Holy Guacamole, ism Saskia Pinas (2 S), 5 april 2019.
+*  Imelda Instituut, Brussel, thema klimaat met gastspreker Joris Poschet, en kookworkshop Eco cooking classes met 6 de jaars, 29 april 2019. 
+*  Ontmoetingscentrum De Kilt, Middelkerke, overschot citroenen verwerken, Paasvakantie 2019 met proeverij, optreden  Freddy en Leandro Gualsaqui, 25 mei 2019.
+*  Couleur aan zee, Middelkerke, Eco-cooking duurzaam en creatief koken, minder voedselverspilling, haringsalade en taco’s, 14 juli 2019.
+*  Imelda Instituut, wijnverkoop tvv Ambassadeurs van de dialoog, 19 december 2019.
 
-Event 3
+2018
 ======
-In hac habitasse platea dictumst. Praesent euismod odio non quam pharetra ullamcorper. Cras nec auctor libero. Nulla facilisi. In hac habitasse platea dictumst. Phasellus eget mauris semper, varius velit sit amet, aliquet mauris. Pellentesque semper, est sit amet finibus euismod, augue ante auctor felis, id vehicula quam nunc a lacus. Nullam felis eros, tempor eget porta id, fringilla quis arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis posuere quis odio vel ornare. Suspendisse potenti. Suspendisse malesuada nulla ac euismod feugiat. Curabitur eu efficitur risus, sodales euismod turpis.
+* Begeleiding stage leerlingen, Israël-Palestina, door echtgenoot en zoon Laus De Boeck, februari 2018.
+* Een reis door Israël – Palestina, met collega’s leerkrachten, begeleiding door zuster Greta en Philip Debruyne Js, Pasen 2018
+* Dienstencentrum De Stille Meers, Middelkerke. Geef afval een 2de kans: creatief Repareren en Recycleren!, Workshop duurzaam en creatief koken, 28 april 2018.
+* Imelda Instituut, Brussel. Duurzaam en creatief koken voor directie scholengemeenschap (5 S), 4 juni 2018.
+* Imelda Instituut, wijnproeverij tvv 2de groep Ambassadeurs van de dialoog, met hapjes Champignon de Bruxelles,  3 december 2018.
 
-Event 4
+2017
 ======
-Nunc porta consectetur nisi ut commodo. In vel risus ut turpis tincidunt facilisis eget rhoncus felis. Integer pretium, lectus et condimentum rhoncus, nibh magna ornare nunc, et ullamcorper sem massa semper arcu. Praesent vestibulum turpis sed mi fermentum pharetra. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas commodo diam id massa facilisis accumsan. Proin volutpat lectus porttitor, molestie ante eu, imperdiet dolor.
+* Imelda Instituut, ontvangst ouders van Ambassadeurs die een pelgrimstocht naar Israël voorbereiden, met Midden-Oosten hapjes gemaakt door STW leerlingen, 21 januari 2017
+* Fuifzaal Transfo, Zwevegem.  Koken voor kinderen, de voedselpiramide, nacho’s/enchillada’s/exotische fruit, 12 april 2017.
+* Meininger hotel City center Brussel, koude schotel voor de leerlingen van Haïfa, september 2017.
+* Imelda Instituut, afscheidsdinner voor de leerlingen van Haïfa, rijstmaaltijd met kip in de keuken van Imelda, 15 september 2017.
+* Koninklijke Vlaamse Schouwburg KVS, Brussel, receptie met leerlingen van 4 en 5 S en JZ, slotevent Ambassadeurs van dialoog, 20 september 2017.
+* Ontmoetingscentrum De Kilt, Middelkerke, Dialoog Mondiaal, uitnodiging Ambassadeurs van dialoog voor reisverslag Pasen 2017, 14 oktober 2017.
