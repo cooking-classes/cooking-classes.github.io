@@ -20,11 +20,13 @@ Leerkracht Atheneum Comenius & coaching en begeleiding. Contact: anne_pauwels@ho
 Ambassadeurs van dialoog (Brussel)
 ======
 Zuster Greta Coninckx, Priester Ton Jongstra &  Leerkracht Laus De Boeck (Imelda-Instituut). Contact: ldb95@hotmail.com
+
 Website: amb-dialogue.be
 
 Koor Koruso (Brussel)
 =======
 Annick De Bode
+
 Website: https://www.facebook.com/koorkoruso
 
 Veerle Jacobs (Geraardsbergen)
@@ -34,6 +36,7 @@ Ama Veerle Jacobs, kunstenares. Contact: vliegboter@hotmail.com
 Inti Sisa Costa (Middelkerke)
 ======
 Marc Buts. Contact: marc.buts@telenet.be, 0474 30 81 99
+
 Website: intisisacosta.blogspot.com
 
 Ghana Akwaaba (Middelkerke)
