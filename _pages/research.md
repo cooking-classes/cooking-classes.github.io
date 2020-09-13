@@ -13,6 +13,7 @@ Greta Van Der Kelen (Halle)
 ======
 Diëtiste en gezondheidswetenschapper, voedings- en dieetadvies. Contact: gvdkelen@telenet.be, 0476 32 09 05    
 ![alt text](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/images/voedingsdriehoek.png "Voedingsdriehoek")
+![alt text](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/images/bewegingsdriehoek.png "Bewegingsdriehoek")
 
 Anne Pauwels & Fatima E. (Brussel)
 ======
