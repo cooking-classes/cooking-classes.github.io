@@ -26,30 +26,39 @@ Ambassadeurs van dialoog (Brussel)
 ======
 Zuster Greta Coninckx, Priester Ton Jongstra &  Leerkracht Laus De Boeck (Imelda-Instituut). 
 
-Contact: ldb95@hotmail.com
+Contact: ldb95@hotmail.com, [website](amb-dialogue.be)
 
 ![Logo ambassadeurs van dialoog](/images/ambassadeurs%20van%20dialoog%20-%20kopie%20(2).jpg)
 
-Website: amb-dialogue.be
 
 Koor Koruso (Brussel)
 =======
-Annick De Bode
+Annick De Bode.
+
+Contact: [website](https://www.facebook.com/koorkhttps://github.com/cooking-classes/cooking-classes.github.io/blob/master/images/plant.pngoruso)
+
 ![Banner Koor Koruso](/images/koruso.jpg)
-Website: https://www.facebook.com/koorkoruso
 
 Inti Sisa Costa (Middelkerke)
 ======
-Marc Buts. Contact: marc.buts@telenet.be, 0474 30 81 99
+Marc Buts. 
+
+Contact: marc.buts@telenet.be, 0474 30 81 99, [website](intisisacosta.blogspot.com)
+
 ![Logo Inti Sisa Costa](/images/inti%20sisa%20costa.jpg)
-Website: intisisacosta.blogspot.com
+
 
 Ghana Akwaaba (Middelkerke)
 ======
-https://www.middelkerke.be/nl/welzijn-en-samenleven/ontwikkelingssamenwerking/projecten/ghana-akwaaba
+Ghana Akwaaba [website](https://www.middelkerke.be/nl/welzijn-en-samenleven/ontwikkelingssamenwerking/projecten/ghana-akwaaba)
+
+![Ghana Akwaaba](/images/ghana.jpg)
 
 Veerle Jacobs (Geraardsbergen)
 ======
-Ama Veerle Jacobs, kunstenares.
+Ama Veerle Jacobs, kunstenares. 
 
 Contact: vliegboter@hotmail.com
+
+![Ghana Akwaaba](/images/plant.png)
+
