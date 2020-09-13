@@ -11,27 +11,30 @@ redirect_from:
   
 Greta Van Der Kelen (Halle)
 ======
-Diëtiste en gezondheidswetenschapper, voedings- en dieetadvies, gvdkelen@telenet.be, 0476 32 09 05    
+Diëtiste en gezondheidswetenschapper, voedings- en dieetadvies. Contact: gvdkelen@telenet.be, 0476 32 09 05    
 
-Anne Pauwels & Fatima E.(Brussel)
+Anne Pauwels & Fatima E. (Brussel)
 ======
-Leerkracht Atheneum Comenius & coaching en begeleiding, anne_pauwels@hotmail.com
+Leerkracht Atheneum Comenius & coaching en begeleiding. Contact: anne_pauwels@hotmail.com
 
 Ambassadeurs van dialoog (Brussel)
 ======
-Zuster Greta Coninckx, Priester Ton Jongstra &  Leerkracht Laus De Boeck (Imelda-Instituut), amb-dialogue.be, ldb95@hotmail.com
+Zuster Greta Coninckx, Priester Ton Jongstra &  Leerkracht Laus De Boeck (Imelda-Instituut). Contact: ldb95@hotmail.com
+Website: amb-dialogue.be
 
-Koruso, Brussel 
+Koor Koruso (Brussel)
 =======
-https://www.facebook.com/koorkoruso, Annick De Bode
+Annick De Bode
+Website: https://www.facebook.com/koorkoruso
 
 Veerle Jacobs (Geraardsbergen)
 ======
-Ama Veerle Jacobs, kunstenares, vliegboter@hotmail.com
+Ama Veerle Jacobs, kunstenares. Contact: vliegboter@hotmail.com
 
 Inti Sisa Costa (Middelkerke)
 ======
-Marc Buts, marc.buts@telenet.be, intisisacosta.blogspot.com, 0474 30 81 99
+Marc Buts. Contact: marc.buts@telenet.be, 0474 30 81 99
+Website: intisisacosta.blogspot.com
 
 Ghana Akwaaba (Middelkerke)
 ======
