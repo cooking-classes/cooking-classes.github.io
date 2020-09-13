@@ -38,19 +38,18 @@ Annick De Bode
 ![Banner Koor Koruso](/images/koruso.jpg)
 Website: https://www.facebook.com/koorkoruso
 
-Veerle Jacobs (Geraardsbergen)
-======
-Ama Veerle Jacobs, kunstenares.
-
-Contact: vliegboter@hotmail.com
-
 Inti Sisa Costa (Middelkerke)
 ======
 Marc Buts. Contact: marc.buts@telenet.be, 0474 30 81 99
-![Logo Inti Sisa Costa](images/inti%20sisa%20costa.jpg)
+![Logo Inti Sisa Costa](/images/inti%20sisa%20costa.jpg)
 Website: intisisacosta.blogspot.com
 
 Ghana Akwaaba (Middelkerke)
 ======
 https://www.middelkerke.be/nl/welzijn-en-samenleven/ontwikkelingssamenwerking/projecten/ghana-akwaaba
 
+Veerle Jacobs (Geraardsbergen)
+======
+Ama Veerle Jacobs, kunstenares.
+
+Contact: vliegboter@hotmail.com
