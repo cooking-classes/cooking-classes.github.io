@@ -12,22 +12,26 @@ redirect_from:
 Greta Van Der Kelen (Halle)
 ======
 Diëtiste en gezondheidswetenschapper, voedings- en dieetadvies. Contact: gvdkelen@telenet.be, 0476 32 09 05    
-![alt text](/images/voedingsdriehoek.png "Voedingsdriehoek")
+![Voedingsdriehoek](/images/voedingsdriehoek.png "Voedingsdriehoek")
 
 Anne Pauwels & Fatima E. (Brussel)
 ======
 Leerkracht Atheneum Comenius & coaching en begeleiding. Contact: anne_pauwels@hotmail.com
 
+![Logo Campus Comenius](/images/LogoCampusComenius_web.png)
+
 Ambassadeurs van dialoog (Brussel)
 ======
 Zuster Greta Coninckx, Priester Ton Jongstra &  Leerkracht Laus De Boeck (Imelda-Instituut). Contact: ldb95@hotmail.com
+
+![Logo ambassadeurs van dialoog](/images/ambassadeurs%20van%20dialoog%20-%20kopie%20(2).jpg)
 
 Website: amb-dialogue.be
 
 Koor Koruso (Brussel)
 =======
 Annick De Bode
-
+![Banner Koor Koruso](/images/koruso.jpg)
 Website: https://www.facebook.com/koorkoruso
 
 Veerle Jacobs (Geraardsbergen)
