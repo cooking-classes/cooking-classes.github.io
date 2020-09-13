@@ -12,6 +12,7 @@ redirect_from:
 Greta Van Der Kelen (Halle)
 ======
 Diëtiste en gezondheidswetenschapper, voedings- en dieetadvies. Contact: gvdkelen@telenet.be, 0476 32 09 05    
+Logo: ![Alt](/wp.png "Title")
 
 Anne Pauwels & Fatima E. (Brussel)
 ======
