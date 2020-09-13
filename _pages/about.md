@@ -16,10 +16,10 @@ diversiteit via basiseducatie en individuele begeleiding van jongeren. Onze acti
 Pajottenland, in Nederlandstalige scholen in Vlaanderen en in Brussel, en aan de Vlaamse kust. Vertrekkend vanuit eigen initiatieven, willen we graag
 projecten van derden ondersteunen.
 
-#### DOELGROEP
+### DOELGROEP
 Kinderen en jongeren, Vrouwen, Vluchtelingen
 
-#### THEMA'S
+### THEMA'S
 Milieu, Ecologie, Watervoorziening, Gezondheidszorg, Onderwijs, Noodhulp, Socio-culturele sector
 
 Voor het goede doel.
