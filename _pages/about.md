@@ -17,7 +17,7 @@ Pajottenland, in Nederlandstalige scholen in Vlaanderen en in Brussel, en aan de
 projecten van derden ondersteunen.
 
 ### DOELGROEP
-Kinderen en jongeren, Vrouwen, Vluchtelingen
+Kinderen en Jongeren, Vrouwen, Vluchtelingen
 
 ### THEMA'S
 Milieu, Ecologie, Watervoorziening, Gezondheidszorg, Onderwijs, Noodhulp, Socio-culturele sector
