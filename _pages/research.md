@@ -9,19 +9,31 @@ redirect_from:
 
 {% include base_path %}
   
-Partner 1 
+Greta Van Der Kelen (Halle)
 ======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mollis purus placerat, egestas ligula ac, luctus dolor. Nam molestie pretium magna, at viverra purus feugiat ut. Phasellus vitae feugiat orci. In porttitor tortor nec hendrerit varius. Curabitur sagittis dignissim tincidunt. Aliquam viverra, nunc at lacinia faucibus, purus turpis vestibulum est, eu aliquam elit dui eget diam. Cras ac lacinia ipsum. Quisque lorem massa, pretium in volutpat sed, venenatis non augue. Integer rutrum commodo risus sed ultrices. Phasellus ultricies purus faucibus tellus scelerisque, vitae facilisis urna imperdiet.
+Diëtiste en gezondheidswetenschapper, voedings- en dieetadvies, gvdkelen@telenet.be, 0476 32 09 05    
 
-Partner 2 
+Anne Pauwels & Fatima E.(Brussel)
 ======
-Donec eget convallis nulla. Curabitur nec turpis nec ex congue tristique. Nunc non ligula vel dui placerat feugiat. In nec nisi lobortis, aliquet eros eget, rutrum tellus. Maecenas mattis tincidunt fermentum. Vivamus condimentum sollicitudin dui. Nulla elementum viverra sodales. Cras sit amet suscipit ligula. Ut at varius risus. Integer varius sed nibh eleifend pulvinar. Duis tincidunt, nisl eu tempus scelerisque, dolor nisl elementum eros, et egestas ante diam a felis. Phasellus blandit enim a pulvinar malesuada. Proin quis ipsum varius, volutpat nisl eget, imperdiet elit. Pellentesque maximus lobortis nulla sit amet consequat. Donec aliquet tellus vel augue fringilla ultrices. Aliquam nisi mi, pretium lobortis pulvinar nec, tempus ac lectus.
+Leerkracht Atheneum Comenius & coaching en begeleiding, anne_pauwels@hotmail.com
 
-Partner 3 
+Ambassadeurs van dialoog (Brussel)
 ======
-Praesent non viverra mauris. Maecenas rhoncus magna sed nulla vestibulum pulvinar. In eget fermentum felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pellentesque posuere mi ac tristique. Phasellus metus ligula, feugiat et pulvinar quis, rutrum auctor nibh. Ut non sem vulputate, tristique ligula vel, imperdiet enim. Vivamus rhoncus malesuada ipsum, id luctus ante tristique gravida. Nunc gravida et nibh ut eleifend. Nunc vel ullamcorper sapien, vel auctor mi. Proin a maximus ex, id commodo est.
+Zuster Greta Coninckx, Priester Ton Jongstra &  Leerkracht Laus De Boeck (Imelda-Instituut), amb-dialogue.be, ldb95@hotmail.com
 
-Partner 4 
+Koruso, Brussel 
+=======
+https://www.facebook.com/koorkoruso, Annick De Bode
+
+Veerle Jacobs (Geraardsbergen)
 ======
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque quis molestie tortor. Morbi ultricies, libero id iaculis ornare, metus dolor dictum enim, sit amet tempor enim metus et quam. Phasellus molestie turpis dictum libero luctus placerat. Suspendisse dictum aliquam augue, malesuada porta libero finibus a. Quisque volutpat, nisi ut dictum posuere, quam eros egestas nunc, at tempus nibh massa id augue. Aliquam sed nisi euismod, vulputate nisl vitae, imperdiet magna.
+Ama Veerle Jacobs, kunstenares, vliegboter@hotmail.com
+
+Inti Sisa Costa (Middelkerke)
+======
+Marc Buts, marc.buts@telenet.be, intisisacosta.blogspot.com, 0474 30 81 99
+
+Ghana Akwaaba (Middelkerke)
+======
+https://www.middelkerke.be/nl/welzijn-en-samenleven/ontwikkelingssamenwerking/projecten/ghana-akwaaba
 
