@@ -27,5 +27,8 @@ Voor het goede doel.
 
 Het Brusselse Imelda-Instituut reageert met ‘Ambassadeurs van de dialoog’ op de groeiende polarisering op school. Het initiatief zet in op verbinding en wederzijds
 begrip. Zuster Greta en priester Ton Jonstra willen de Christelijke en Islamitische leerlingen dichter bij elkaar brengen en maken een interreligieuze pelgrimstocht
-(2017 - 2020) mogelijk. Dit initiatief biedt perspectief voor leerlingen en leerkrachten. In het Zuiden gaat onze speciale aandacht naar de lokale bevolking in de Andes (Ecuador). We willen kinderen een goede toekomst bieden en hen met ‘Aflatoun’ begeleiden op hun weg naar succes als zelfbewuste en financieel zelfredzame
+(2017 - 2020) mogelijk. Dit initiatief biedt perspectief voor leerlingen en leerkrachten. 
+
+
+In het Zuiden gaat onze speciale aandacht naar de lokale bevolking in de Andes (Ecuador). We willen kinderen een goede toekomst bieden en hen met ‘Aflatoun’ begeleiden op hun weg naar succes als zelfbewuste en financieel zelfredzame
 wereldburgers.
