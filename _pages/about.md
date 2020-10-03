@@ -16,7 +16,7 @@ diversiteit via basiseducatie en individuele begeleiding van jongeren. Onze acti
 Pajottenland, in Nederlandstalige scholen in Vlaanderen en in Brussel, en aan de Vlaamse kust. Vertrekkend vanuit eigen initiatieven, willen we graag
 projecten van derden ondersteunen.
 
-### PIJLERS
+### PROJECTEN
 
 Mondiaal koken aan huis of op locatie (SDG 17)
 	
