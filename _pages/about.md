@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mondiaal, educatief, duurzaam en gezond."
+title: "Mondiaal, Educatief, Duurzaam en Gezond."
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -10,7 +10,9 @@ redirect_from:
 
 Gezond leven is niet evident voor mensen in maatschappelijk kwetsbare situaties. Vanuit een specifieke basishouding willen wij kinderen en
 (jong)volwassen met een diverse (migratie)achtergrond ondersteunen en begeleiden via mondiaal koken, educatieve kookateliers en workshops rond
-gezonde voeding met lokale, self-made en waar mogelijk fairtrade producten. We willen op een duurzame manier bijdragen tot respect voor
+gezonde voeding met lokale, self-made en waar mogelijk fairtrade producten. 
+
+We willen op een duurzame manier bijdragen tot respect voor
 diversiteit via basiseducatie en individuele begeleiding van jongeren. Onze activiteiten vinden voornamelijk plaats in regio Halle Zennevallei, regio
 Pajottenland, in Nederlandstalige scholen in Vlaanderen en in Brussel, en aan de Vlaamse kust. Vertrekkend vanuit eigen initiatieven, willen we graag
 projecten van derden ondersteunen.
