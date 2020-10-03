@@ -21,7 +21,7 @@ Leerkracht Atheneum Comenius & coaching en begeleiding.
 
 Contact: anne_pauwels@hotmail.com
 
-![Logo Campus Comenius](/images/LogoCampusComenius_web.png)
+![Logo Campus Comenius](/images/LogoCampusComenius_web.png){:height="50%" width="50%"}
 
 <img src="https://github.com/cooking-classes/cooking-classes.github.io/blob/master/images/LogoCampusComenius_web.png" width=30% height=30%>
 
