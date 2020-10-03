@@ -13,7 +13,7 @@ Soep Momenten
 ======
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mollis purus placerat, egestas ligula ac, luctus dolor. Nam molestie pretium magna, at viverra purus feugiat ut. Phasellus vitae feugiat orci. In porttitor tortor nec hendrerit varius. Curabitur sagittis dignissim tincidunt. Aliquam viverra, nunc at lacinia faucibus, purus turpis vestibulum est, eu aliquam elit dui eget diam. Cras ac lacinia ipsum. Quisque lorem massa, pretium in volutpat sed, venenatis non augue. Integer rutrum commodo risus sed ultrices. Phasellus ultricies purus faucibus tellus scelerisque, vitae facilisis urna imperdiet.
 
-[Meer info]("https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Markt.pdf")
+[Meer info](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Markt.pdf)
 
 Kruidentheekransjes
 ======
