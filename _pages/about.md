@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mondiaal, Educatief, Duurzaam en Gezond."
+title: "Mondiaal, Educatief, Duurzaam En Gezond."
 excerpt: ""
 author_profile: true
 redirect_from: 
