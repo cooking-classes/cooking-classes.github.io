@@ -60,5 +60,5 @@ Ama Veerle Jacobs, kunstenares.
 
 Contact: vliegboter@hotmail.com
 
-![Ghana Akwaaba](/images/plant.png)
+![Ghana Akwaaba](/images/ca plant pour moi groot.png.)
 
