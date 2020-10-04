@@ -43,13 +43,13 @@ Inti Sisa Costa (Middelkerke)
 ======
 Marc Buts. 
 
-Contact: marc.buts@telenet.be, 0474 30 81 99, [website](intisisacosta.blogspot.com)
+Contact: marc.buts@telenet.be, 0474 30 81 99, [website]("intisisacosta.blogspot.com")
 
 ![Logo Inti Sisa Costa](/images/inti%20sisa%20costa.jpg){:height="25%" width="25%"}
 
 Ghana Akwaaba (Middelkerke)
 ======
-Ghana Akwaaba [website](https://www.middelkerke.be/nl/welzijn-en-samenleven/ontwikkelingssamenwerking/projecten/ghana-akwaaba)
+Ghana Akwaaba [website]("https://www.middelkerke.be/nl/welzijn-en-samenleven/ontwikkelingssamenwerking/projecten/ghana-akwaaba")
 
 ![Logo Ghana Akwaaba](/images/ghana.jpg){:height="25%" width="25%"}
 
