@@ -27,7 +27,7 @@ Ambassadeurs van dialoog (Brussel)
 ======
 Zuster Greta Coninckx, Priester Ton Jongstra &  Leerkracht Laus De Boeck (Imelda-Instituut). 
 
-Contact: ldb95@hotmail.com, [website](amb-dialogue.be)
+Contact: ldb95@hotmail.com, [website](http://www.amb-dialogue.be)
 
 ![Logo Ambassadeurs van dialoog](/images/ambassadeurs%20van%20dialoog%20-%20kopie%20(2).jpg){:height="25%" width="25%"}
 
@@ -43,7 +43,7 @@ Inti Sisa Costa (Middelkerke)
 ======
 Marc Buts. 
 
-Contact: marc.buts@telenet.be, 0474 30 81 99, [website]("intisisacosta.blogspot.com")
+Contact: marc.buts@telenet.be, 0474 30 81 99, [website](http://www.intisisacosta.blogspot.com)
 
 ![Logo Inti Sisa Costa](/images/inti%20sisa%20costa.jpg){:height="25%" width="25%"}
 
