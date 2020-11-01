@@ -28,10 +28,14 @@ Markt van de Makers
 
 Plukken van fruit uit eigen tuin, en de verwerking tot gelei, confituur, sappen of gebak heeft vrouwen van oudsher bezield. Op de Markt van de Makers stallen we onze zelfgemaakte producten uit. Opbrengst voor het goede doel!
 
+[Meer info](https://cooking-classes.github.io/files/Thee.pdf)
+
 Crea – Bandanas
 ======
 
 ‘Crea – Bandanas’, zelf breien met restjes kwaliteitswol of accessoires maken uit gedoneerde katoen en batikstof. Steun het goede doel door aankoop van een hoofdband, muts, poncho of mask!
+
+[Meer info](https://cooking-classes.github.io/files/Thee.pdf)
 
 Eco – Maaltijden
 ======
