@@ -12,6 +12,8 @@ redirect_from:
 2020
 ======
 *  Markt van de makers in buurtcentrum De Wiek Leffinge, zelfgemaakte confituur en artisanale tafelnappen, elke 1 ste en 3 de zondag van de maand.
+*  Salontheekransje, Edingensesteenweg 158 te Halle, met elkaar in dialoog gaan door luisteren naar verhalen en delen van ervaringen creëert ruimte voor reflectie, elke 3de vrijdag van de maand, 16 oktober – 20 november – 19 december 2020.
+*  Kruidentheekransje, Edingensesteenweg 158 te Halle, laat je inspireren door de heilzame werking van kruiden en thee, een spirituele zoektocht, gezondheid voorop, elke 4de dinsdag van de maand:  22 september  – (27 oktober)  – 24 november  – 22 december 2020.  Beperkt door corona!
 
 2019
 ======
