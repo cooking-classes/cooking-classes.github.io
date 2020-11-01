@@ -28,4 +28,11 @@ Markt van de Makers
 
 Plukken van fruit uit eigen tuin, en de verwerking tot gelei, confituur, sappen of gebak heeft vrouwen van oudsher bezield. Op de Markt van de Makers stallen we onze zelfgemaakte producten uit. Opbrengst voor het goede doel!
 
-[Meer info](https://cooking-classes.github.io/files/Markt.pdf)
+Crea – Bandanas
+======
+
+‘Crea – Bandanas’, zelf breien met restjes kwaliteitswol of accessoires maken uit gedoneerde katoen en batikstof. Steun het goede doel door aankoop van een hoofdband, muts, poncho of mask!
+
+Eco – Maaltijden
+======
+‘Eco – Maaltijden’ bereid met verse en lokale producten, ter ondersteuning van gelegenheden of activiteiten/workshops. Want een warme maaltijd doet deugd en verbindt! Vege-risotto, Hutsepot met spek, Bio – Hamburger (van Bioboerderij Dubbeldoel te Gooik) maar ook Vis (van de Nieuwpoortse vistrap) met zouten korst, behoren tot de mogelijkheden.
