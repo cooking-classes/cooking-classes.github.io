@@ -28,7 +28,7 @@ Markt van de Makers
 
 Plukken van fruit uit eigen tuin, en de verwerking tot gelei, confituur, sappen of gebak heeft vrouwen van oudsher bezield. Op de Markt van de Makers stallen we onze zelfgemaakte producten uit. Opbrengst voor het goede doel!
 
-[Meer info](https://cooking-classes.github.io/files/Makers.pdf)
+[Meer info](https://cooking-classes.github.io/files/Markt.pdf)
 
 Crea – Bandanas
 ======
