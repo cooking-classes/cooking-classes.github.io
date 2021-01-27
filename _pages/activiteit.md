@@ -37,6 +37,10 @@ Crea – Bandanas
 
 [Meer info](https://cooking-classes.github.io/files/Bandana.pdf)
 
+Meditatieve Wandeling 
+======
+‘Meditatieve wandeling‘ met streekproductenpakket Zennevallei: Wij nodigen u graag uit op een geleide wandeling met aandacht voor natuur en mens. Vanuit Streekproducten Centrum Halle en LokaalHalle, een coöperatieve winkel en duurzame supermarkt voorzien we een meeneempakket. U kan steeds aansluiten als interesse. 
+
 Eco – Maaltijden
 ======
 ‘Eco – Maaltijden’ bereid met verse en lokale producten, ter ondersteuning van gelegenheden of activiteiten/workshops. Want een warme maaltijd doet deugd en verbindt! Vege-risotto, Hutsepot met spek, Bio – Hamburger (van Bioboerderij Dubbeldoel te Gooik) maar ook Vis (van de Nieuwpoortse vistrap) met zouten korst, behoren tot de mogelijkheden.
