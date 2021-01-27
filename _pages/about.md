@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Wij wensen U het allerbeste voor 2021! Vanuit COOKING CLASSES Mondiaal, Educatief, Duurzaam en Gezond, hopen we U snel te kunnen uitnodigen op een spiritueel theekransje of een meditatieve wandeling te Halle.   
+
 Gezond leven is niet evident voor mensen in maatschappelijk kwetsbare situaties. Vanuit een specifieke basishouding willen wij kinderen en
 (jong)volwassen met een diverse (migratie)achtergrond ondersteunen en begeleiden via mondiaal koken, educatieve kookateliers en workshops rond
 gezonde voeding met lokale, self-made en waar mogelijk fairtrade producten. 
