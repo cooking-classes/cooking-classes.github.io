@@ -11,7 +11,8 @@ redirect_from:
 
 2021
 ======
-* Kerstpakket ten voordele van Inti Sisa, ter ondersteuning van Eve en haar team in Guamote (Ec), voor de ontvangst van gezinnen in het gastenverblijf www.intisisa.org, december 2020. Met tal van activiteiten hopen we INT SISA, een educatief centrum in de Andes in Guamote (Ecuador) te kunnen blijven ondersteunen want Eva en haar team kennen momenteel moeilijke tijden.
+* Kerstpakket ten voordele van Inti Sisa, ter ondersteuning van Eve en haar team in Guamote (Ec), voor de ontvangst van gezinnen in het gastenverblijf [www.intisisa.org], december 2020. Met tal van activiteiten hopen we INT SISA, een educatief centrum in de Andes in Guamote (Ecuador) te kunnen blijven ondersteunen want Eva en haar team kennen momenteel moeilijke tijden. [Meer info](https://cooking-classes.github.io/files/Kerstpakket.pdf)
+
 
 2020
 ======
