@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-  
+
+2021
+======
+* Kerstpakket ten voordele van Inti Sisa, ter ondersteuning van Eve en haar team in Guamote (Ec), voor de ontvangst van gezinnen in het gastenverblijf www.intisisa.org, december 2020. Met tal van activiteiten hopen we INT SISA, een educatief centrum in de Andes in Guamote (Ecuador) te kunnen blijven ondersteunen want Eva en haar team kennen momenteel moeilijke tijden.
+
 2020
 ======
 *  Markt van de makers in buurtcentrum De Wiek Leffinge, zelfgemaakte confituur en artisanale tafelnappen, elke 1 ste en 3 de zondag van de maand.
