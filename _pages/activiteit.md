@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
   
+  
+Crea - Toca 
+======
+
+Mutsen om het hoofd warm te houden. Sierlijke hoedjes en baretten kleuren onze hoofden, zijn van alle tijden, houden diversiteit levendig. Shetland en Noorse motieven inspireren. Bezorg ons wol of koop een zelf gemaakte TOCA voor het goede doel!
+
+[Meer info](https://cooking-classes.github.io/files/Toca.pdf)
+
 Soep Momenten
 ======
 
