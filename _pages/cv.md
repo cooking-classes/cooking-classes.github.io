@@ -12,7 +12,8 @@ redirect_from:
 2021
 ======
 * Kerstpakket ten voordele van [Inti Sisa](www.intisisa.org), ter ondersteuning van Eve en haar team in Guamote (Ec), voor de ontvangst van gezinnen in het gastenverblijf, december 2020. Met tal van activiteiten hopen we INT SISA, een educatief centrum in de Andes in Guamote (Ecuador) te kunnen blijven ondersteunen want Eva en haar team kennen momenteel moeilijke tijden. [Meer info](https://cooking-classes.github.io/files/Kerstpakket.pdf)
-
+* Paaspakket 'chocolade met studentenhaver' ten voordele van Inti Sisa, want Inti Sisa heeft een verhaal met chocolade, maart - april 2021, ter ondersteuning van de bediening van dagelijks 45 maaltijden aan kinderen in het gastenhuis in Guamote (Ecuador) [Meer info](https://cooking-classes.github.io/files/Kerstpakket.pdf)
+* Wandeling (8 & 9 mei 2021, 2-8 km,coronaproof) met inschrijving (voor 1 mei), naar aanleiding van [World Fair Trade Day](https://fairtradegemeenten.be) , in de omgeving van Dassenveld-site (Halle), om de biodiversiteit van het landschap te benadrukken. [Meer info](https://cooking-classes.github.io/files/Kerstpakket.pdf)
 
 2020
 ======
