@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+2022
+======
+* Wat is de Japanse theeceremonie? Genieten van thee, luisterend zonder vragen, één met de natuur (Haiku 7/1/22 Greta), proeven van de “witte pioenbloem” en Sencha  Premium Midori aangevuld met Joodse koekjes, Hamanstaschen en Rugelach, in aanwezigheid van vrouwen, op respectievelijk 21 januari en 18 februari 2022.
+
 2021
 ======
 * Kerstpakket ten voordele van [Inti Sisa](www.intisisa.org), ter ondersteuning van Eve en haar team in Guamote (Ec), voor de ontvangst van gezinnen in het gastenverblijf, december 2020. Met tal van activiteiten hopen we INT SISA, een educatief centrum in de Andes in Guamote (Ecuador) te kunnen blijven ondersteunen want Eva en haar team kennen momenteel moeilijke tijden. [Meer info](https://cooking-classes.github.io/files/Kerstpakket.pdf)
