@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Wij wensen U het allerbeste voor 2021! Vanuit COOKING CLASSES Mondiaal, Educatief, Duurzaam en Gezond, hopen we U snel te kunnen uitnodigen op een spiritueel theekransje of een meditatieve wandeling te Halle.   
+Wij wensen U het allerbeste voor 2022! Vanaf 2022 ligt de focus op het samenbrengen van mensen met bereiden en serveren van thee samen met zoetigheden om in balans te komen met de bittere smaak. Dit volgens de Japanse traditie waarin het drinken van thee verheven is tot een kunstvorm. Kom mee genieten elke 3de vrijdag en 4de dinsdag van de maand.
 
-Gezond leven is niet evident voor mensen in maatschappelijk kwetsbare situaties. Vanuit een specifieke basishouding willen wij kinderen en
-(jong)volwassen met een diverse (migratie)achtergrond ondersteunen en begeleiden via mondiaal koken, educatieve kookateliers en workshops rond
-gezonde voeding met lokale, self-made en waar mogelijk fairtrade producten. 
+Genieten van thee,
 
-We willen op een duurzame manier bijdragen tot respect voor
-diversiteit via basiseducatie en individuele begeleiding van jongeren. Onze activiteiten vinden voornamelijk plaats in regio Halle Zennevallei, regio
-Pajottenland, in Nederlandstalige scholen in Vlaanderen en in Brussel, en aan de Vlaamse kust. Vertrekkend vanuit eigen initiatieven, willen we graag
+luisterend zonder vragen,
+
+één met de natuur
+
+Haiku Greta 1/22
+
+We willen op een duurzame manier bijdragen tot respect voor diversiteit via basiseducatie en individuele begeleiding van jongeren. Onze activiteiten vinden voornamelijk plaats in regio Halle Zennevallei, regio Pajottenland, in Nederlandstalige scholen in Vlaanderen en in Brussel, en aan de Vlaamse kust. Vertrekkend vanuit eigen initiatieven, willen we graag
 projecten van derden ondersteunen.
 
 ### PROJECTPIJLERS
