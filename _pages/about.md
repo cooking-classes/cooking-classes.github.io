@@ -10,11 +10,11 @@ redirect_from:
 
 Wij wensen U het allerbeste voor 2022! Vanaf 2022 ligt de focus op het samenbrengen van mensen met bereiden en serveren van thee samen met zoetigheden om in balans te komen met de bittere smaak. Dit volgens de Japanse traditie waarin het drinken van thee verheven is tot een kunstvorm. Kom mee genieten elke 3de vrijdag en 4de dinsdag van de maand.
 
-Genieten van thee,
+**Genieten van thee,**
 
-luisterend zonder vragen,
+**luisterend zonder vragen,**
 
-één met de natuur
+**één met de natuur**
 
 Haiku Greta 1/22
 
