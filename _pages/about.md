@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Wij wensen U het allerbeste voor 2022! Vanaf 2022 ligt de focus op het samenbrengen van mensen met bereiden en serveren van thee samen met zoetigheden om in balans te komen met de bittere smaak. Dit volgens de Japanse traditie waarin het drinken van thee verheven is tot een kunstvorm. Kom mee genieten elke 3de vrijdag en 4de dinsdag van de maand.
+Vanaf 2023 willen we met eenzelfde elan verder gaan. De focus ligt op het samenbrengen van vrouwen met serveren van thee tesamen met zoetigheden om in balans te komen met de bittere smaak. Dit volgens de Japanse traditie waarin het drinken van thee verheven is tot een kunstvorm. We concentreren ons op een Haiku en luisteren naar ieders verhaal. Kom mee genieten elke 3de vrijdag van de maand van 13.00 u tot 14.30 u.
 
 **Genieten van thee,**
 
@@ -18,8 +17,8 @@ Wij wensen U het allerbeste voor 2022! Vanaf 2022 ligt de focus op het samenbren
 
 Haiku Greta 1/22
 
-We willen op een duurzame manier bijdragen tot respect voor diversiteit via basiseducatie en individuele begeleiding van jongeren. Onze activiteiten vinden voornamelijk plaats in regio Halle Zennevallei, regio Pajottenland, in Nederlandstalige scholen in Vlaanderen en in Brussel, en aan de Vlaamse kust. Vertrekkend vanuit eigen initiatieven, willen we graag
-projecten van derden ondersteunen.
+We blijven aandacht hebben voor jongeren via basiseducatie en individuele begeleiding. 
+Vertrekkend vanuit eigen initiatieven willen we graag projecten van derden ondersteunen.
 
 ### PROJECTPIJLERS
 Mondiaal koken aan huis of op locatie (SDG 17)
@@ -31,10 +30,11 @@ Workshops met streekeigen, agro en fairtrade produkten (SDG 12)
 Coaching en begeleiding van jongeren (SDG 3)
 
 ### DOELGROEPEN
-Kinderen, Jongeren, Vrouwen, en Vluchtelingen
+Vrouwen en Jongeren
 
 ### ALGEMENE THEMA'S
-Milieu, Ecologie, Watervoorziening, Gezondheidszorg, Onderwijs, Noodhulp, Socio-culturele sector
+Milieu, Ecologie, Gezondheidszorg, Onderwijs
+
 
 Internationale Projecten Voor Het Goede Doel.
 ======
