@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
+2023
+======
+
+* Theeceremonies voor Halse Buren, mekaar ontmoeten en tegelijk verschillende soorten thee leren kennen en proeven, met aanbieden van zelfgemaakt gebak en koekjes. (Psalm 119:109 Statenvertaling) Mijn ziel is geduriglijk in mijn hand; nochtans vergeet ik uw wet niet. Per theesessie wordt 25 euro geschonken aan het project dat we ondersteunen [Inti Sisa Costa](www.intisisa.org). 17/2 - 17/3 - 21/4 - 19/5 - 16/6 
+
 2022
 ======
 * Theeceremonie **Ik kook van harte, gedij op geur en smaken, mijn ziel in mijn hand** (Haiku 12 4/8/22 Greta), Samen thee drinken en luisteren naar elkaar over Eten = Emotie met aanbieden van hapjes of versnaperingen dewelke harmonieus aansluiten bij de bittere smaak van thee, op resp.  16/9 - 21/10 - 18/11 - 16/12 2022. 
