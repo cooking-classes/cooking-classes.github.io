@@ -13,7 +13,7 @@ redirect_from:
 2023
 ======
 
-* Theeceremonies voor Halse Buren, mekaar ontmoeten en tegelijk verschillende soorten thee leren kennen en proeven, met aanbieden van zelfgemaakt gebak en koekjes. (Psalm 119:109 Statenvertaling) Mijn ziel is geduriglijk in mijn hand; nochtans vergeet ik uw wet niet. Per theesessie wordt 25 euro geschonken aan het project dat we ondersteunen [Inti Sisa Costa](www.intisisa.org). 17/2 - 17/3 - 21/4 - 19/5 - 16/6 
+* Theeceremonies voor Halse Buren, mekaar ontmoeten en tegelijk verschillende soorten thee leren kennen en proeven, met aanbieden van zelfgemaakt gebak en koekjes. **Mijn ziel is geduriglijk in mijn hand; nochtans vergeet ik uw wet niet.(Psalm 119:109 Statenvertaling)** Per theesessie wordt 25 euro geschonken aan het project dat we ondersteunen [Inti Sisa Costa](http://intisisacosta.blogspot.com/). 17/2 - 17/3 - 21/4 - 19/5 - 16/6 
 
 2022
 ======
