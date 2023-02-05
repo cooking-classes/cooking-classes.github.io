@@ -17,10 +17,10 @@ redirect_from:
 
 2022
 ======
-* Theeceremonie **Ik kook van harte, gedij op geur en smaken, mijn ziel in mijn hand** (Haiku 12 4/8/22 Greta), Samen thee drinken en luisteren naar elkaar over Eten = Emotie met aanbieden van hapjes of versnaperingen dewelke harmonieus aansluiten bij de bittere smaak van thee, op resp.  16/9 - 21/10 - 18/11 - 16/12 2022. 
-* Theeceremonie **Hoor de wind en ruik, wit aan de zwarte hemel, ik voel zijn streling** (Haiku 8/10/21 Greta) Kruideninfuus: munt 'uit eigen tuin', brandnetel 'Het blauwe huis', guldenroede 'Demeter', tot slot Japanse Kukicha met flapjes gevuld met fruitmoes/hele stukjes -eigen bereiding- verse abrikoos, appel/mango, aardbei/kers op 17 en 23  juni 2022.
-* Theeceremonie **The tea smoke, and the wilow, together trembling** (Haiku Kobayashi Issa) Naast Pu-ehr, Oolong en parelthee uit China, komt Japanse Gyokuro aan bod met tiramisu-koekjes, appel/rabarbergebak visite in maart - april - mei 2022.
-* Wat is de Japanse theeceremonie? **Genieten van thee, luisterend zonder vragen, één met de natuur** (Haiku 7/1/22 Greta), proeven van de “witte pioenbloem” en Sencha  Premium Midori aangevuld met Joodse koekjes, Hamanstaschen en Rugelach, in aanwezigheid van vrouwen, op respectievelijk 21 januari en 18 februari 2022.
+* Theeceremonie **Ik kook van harte, gedij op geur en smaken, mijn ziel in mijn hand** (Haiku 12 4/8/22 Greta), Samen thee drinken en luisteren naar elkaar over Eten = Emotie met aanbieden van hapjes of versnaperingen dewelke harmonieus aansluiten bij de bittere smaak van thee, op resp.  16/9 - 21/10 - 18/11 - 16/12
+* Theeceremonie **Hoor de wind en ruik, wit aan de zwarte hemel, ik voel zijn streling** (Haiku 8/10/21 Greta) Kruideninfuus: munt 'uit eigen tuin', brandnetel 'Het blauwe huis', guldenroede 'Demeter', tot slot Japanse Kukicha met flapjes gevuld met fruitmoes/hele stukjes -eigen bereiding- verse abrikoos, appel/mango, aardbei/kers op 17 en 23 juni.
+* Theeceremonie **The tea smoke, and the wilow, together trembling** (Haiku Kobayashi Issa) Naast Pu-ehr, Oolong en parelthee uit China, komt Japanse Gyokuro aan bod met tiramisu-koekjes, appel/rabarbergebak visite in maart - april - mei.
+* Wat is de Japanse theeceremonie? **Genieten van thee, luisterend zonder vragen, één met de natuur** (Haiku 7/1/22 Greta), proeven van de “witte pioenbloem” en Sencha  Premium Midori aangevuld met Joodse koekjes, Hamanstaschen en Rugelach, in aanwezigheid van vrouwen, op respectievelijk 21 januari en 18 februari.
 
 2021
 ======
