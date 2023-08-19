@@ -13,8 +13,7 @@ redirect_from:
 2023
 ======
 
-* Theeceremonies voor vriendinnen 2023-2024. Samen thee drinken in sereniteit, een gezellige babbel over onderwerpen die ons aanbelangen
-met Haiku’s als leidraad. **2x2 poten, gespitste oren luister, naar paard wandelaar** (Haiku 13/2023 Greta)
+* [Theeceremonies voor vriendinnen 2023-2024](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Theeceremonies%202023%20-2024.pdf). Samen thee drinken in sereniteit, een gezellige babbel over onderwerpen die ons aanbelangen met Haiku’s als leidraad. **2x2 poten, gespitste oren luister, naar paard wandelaar** (Haiku 13/2023 Greta)
 
 * [Theeceremonies voor Halse Buren](https://participatie.halle.be/shout/1829666/theeceremonies-greta-van-der-kelen-marie-rose-heremans-patrick-deville), mekaar ontmoeten en tegelijk verschillende soorten thee leren kennen en proeven, met aanbieden van zelfgemaakt gebak en koekjes. **Mijn ziel is geduriglijk in mijn hand; nochtans vergeet ik uw wet niet. (Psalm 119:109 Statenvertaling)** Per theesessie wordt 25 euro geschonken aan het project dat we ondersteunen [Inti Sisa Costa](http://intisisacosta.blogspot.com/). 17/2 - 17/3 - 21/4 - 19/5 - 16/6 
 
