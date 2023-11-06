@@ -12,8 +12,9 @@ redirect_from:
 
 2023
 ======
+* Receptuur voor zelfplukboerderij Salie en Apekool. Vergeten Groente: [Rode koolrabi](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Rode%20koolrabi.pdf), [Groene en rode warmoes](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Warmoes.pdf) en [Radicchio](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Radicchio%20.pdf), 31 oktober 2023.
 
-* [Receptuur voor zelfplukboerderij Salie en Apekool](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Witte%20Koolrabi.pdf). Vergeten Groente: Patisson en Witte koolrabi, 30 oktober 2023.
+* Receptuur voor zelfplukboerderij Salie en Apekool. Vergeten Groente: [Patisson](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Patisson.pdf) en [Witte koolrabi](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Witte%20Koolrabi.pdf), 30 oktober 2023.
 
 * Reünie Ambassadeurs van dialoog. Met de fiets langsheen het kanaal van BXL naar Halle, picknick achter ons huis met gebak - koffie - dranken, en viering in de Basiliek, 31 mei 2023.
 
