@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+2024
+======
+
+* Opendeurdagen CSA-Enghien, de voedings- en bewegingsdriehoek, en het SDG-spel in het Nederlands, 19-20 april 2024.
+* Theeceremonies 2024 voor vrouwen onder elkaar, genietend van thee met versnaperingen. **De zon zendt stralen, in Vlissingen overzee, licht aan de Horizon** (Haiku 19) **Lijden in 't leven, aanvaarden en meenemen, pijn als loutering** (Haiku 20)
 
 2023
 ======
