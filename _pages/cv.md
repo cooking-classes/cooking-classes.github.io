@@ -11,20 +11,16 @@ redirect_from:
 
 2024
 ======
-
+* [TEA_ART](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Theeceremonies%20juli-december%202024.pdf) zomer/herfst 2024. Thee drinken verheven tot kunst, met eigen en/of creaties van anderen als leidraad. Juli 2024 - december 2024.
 * [Opendeurdagen CSA-Enghien](https://github.com/cooking-classes/cooking-classes.github.io/blob/c0d351ad3b22c3a66bd67e9e84d07bad01cffa47/files/Opendeurdagen.pdf), de voedings- en bewegingsdriehoek, en het SDG-spel in het Nederlands, 19-20 april 2024.
-* Theeceremonies 2024 voor vrouwen onder elkaar, genietend van thee met versnaperingen. **De zon zendt stralen, in Vlissingen overzee, licht aan de Horizon** (Haiku 19) **Lijden in 't leven, aanvaarden en meenemen, pijn als loutering** (Haiku 20)
+* [Theeceremonies 2024](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Theeceremonies%20voorjaar%202024.pdf) voor vrouwen onder elkaar, genietend van thee met versnaperingen. **De zon zendt stralen, in Vlissingen overzee, licht aan de Horizon** (Haiku 19) **Lijden in 't leven, aanvaarden en meenemen, pijn als loutering** (Haiku 20). Januari 2024 - juni 2024.
 
 2023
 ======
 * Receptuur voor zelfplukboerderij Salie en Apekool. Vergeten Groente: [Rode koolrabi](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Rode%20koolrabi.pdf), [Groene en rode warmoes](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Warmoes.pdf) en [Radicchio](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Radicchio%20.pdf), 31 oktober 2023.
-
 * Receptuur voor zelfplukboerderij Salie en Apekool. Vergeten Groente: [Patisson](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Patisson.pdf) en [Witte koolrabi](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Witte%20Koolrabi.pdf), 30 oktober 2023.
-
 * Reünie Ambassadeurs van dialoog. Met de fiets langsheen het kanaal van BXL naar Halle, picknick achter ons huis met gebak - koffie - dranken, en viering in de Basiliek, 31 mei 2023.
-
 * [Theeceremonies voor vriendinnen 2023-2024](https://github.com/cooking-classes/cooking-classes.github.io/blob/master/files/Theeceremonies%202023%20-2024.pdf). Samen thee drinken in sereniteit, een gezellige babbel over onderwerpen die ons aanbelangen met Haiku’s als leidraad. **2x2 poten, gespitste oren luister, naar paard wandelaar** (Haiku 13/2023 Greta)
-
 * [Theeceremonies voor Halse Buren](https://participatie.halle.be/shout/1829666/theeceremonies-greta-van-der-kelen-marie-rose-heremans-patrick-deville), mekaar ontmoeten en tegelijk verschillende soorten thee leren kennen en proeven, met aanbieden van zelfgemaakt gebak en koekjes. **Mijn ziel is geduriglijk in mijn hand; nochtans vergeet ik uw wet niet. (Psalm 119:109 Statenvertaling)** Per theesessie wordt 25 euro geschonken aan het project dat we ondersteunen [Inti Sisa Costa](http://intisisacosta.blogspot.com/). 17/2 - 17/3 - 21/4 - 19/5 - 16/6 
 
 2022
