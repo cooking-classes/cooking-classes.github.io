@@ -11,6 +11,10 @@ redirect_from:
 
 2024
 ======
+* TEA_ART Joodse feesten met proeverij, Rügelach het ganse jaar door maar vooral bij CHANOEKA, BIBLIA Brugge, 14 december 2024. 
+* TEA_ART Joodse feesten met proeverij, SJEMINI ATSERET - SIMCHAT THORA - CHANOEKA, Latskes, Soufganiot en proeven van Jodenkoek met kaneel en citroenzeste, kerk Maria Assumpta Assebroek, 16 november 2024.
+* TEA_ART Joodse feesten en proeverij, honingkoek met koffie, Joodse honingkoek met walnoten voor ROSH HASJANA en strüdel met pruimen voor SOEKOT, kerk Maria Assumpta Assebroek, 12 oktober 2024.
+* TEA_ART Joodse feesten en proeverij, zoete koekjes met specerijën, zoete challe, honingkoek met appel voor ROSJ HASJANA en kruidkoek voor JOM KIPPOER, kerk Maria Assumpta Assebroek, 28 september 2024.
 * [TEA_ART](https://cooking-classes.github.io/files/Theeceremonies%20juli-december%202024.pdf) zomer/herfst 2024. Thee drinken verheven tot kunst, met eigen en/of creaties van anderen als leidraad. Juli 2024 - december 2024.
 * [Opendeurdagen CSA-Enghien](https://cooking-classes.github.io/files/Opendeurdagen.pdf), de voedings- en bewegingsdriehoek, en het SDG-spel in het Nederlands, 19-20 april 2024.
 * [Theeceremonies 2024](https://cooking-classes.github.io/files/Theeceremonies%20voorjaar%202024.pdf) voor vrouwen onder elkaar, genietend van thee met versnaperingen. **De zon zendt stralen, in Vlissingen overzee, licht aan de Horizon** (Haiku 19) **Lijden in 't leven, aanvaarden en meenemen, pijn als loutering** (Haiku 20). Januari 2024 - juni 2024.
