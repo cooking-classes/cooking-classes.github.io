@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Vanaf 2024 willen we met eenzelfde elan verder gaan. De focus ligt op het samenbrengen van vrouwen met serveren van thee tesamen met zoetigheden om in balans te komen met de bittere smaak. Dit volgens de Japanse traditie waarin het drinken van thee verheven is tot een kunstvorm. We concentreren ons op een Haiku en luisteren naar ieders verhaal. Kom mee genieten elke 3de vrijdag van de maand van 13.00 u tot 14.30 u.
+Theeceremonies verblijden mensen en dragen bij tot het omlijsten van feesten. In 2025 concentreren we ons op gebak dat 'symbolisch aansluit bij Joodse feesten. Thuis in Halle ligt de focus  op het samenbrengen van vrouwen met serveren van thee tesamen met zoetigheden om in balans te komen met de bittere smaak. Dit volgens de Japanse traditie waarin het drinken van thee verheven is tot een kunstvorm. We concentreren ons op een Haiku en luisteren naar ieders verhaal. Kom mee genieten elke 3de vrijdag van de maand van 13.00 u tot 14.30 u.
 
 **Genieten van thee,**
 
