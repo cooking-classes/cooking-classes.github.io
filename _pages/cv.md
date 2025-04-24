@@ -11,10 +11,10 @@ redirect_from:
 
 2025
 ======
-* TEA_ART Joodse feesten met proeverij, CHANOUKA met Soufganiots (soort Berlijnse bollen), Trudocentrum Assebroek, 1 februari 2025.
-* TEA_ART odse feesten met proeverij, POERIM met Hamanstaschen en Hamansoren, Trudocentrum Assebroek, 1 en 15 maart 2025. 
-* TEA_ART Joodse feesten met proeverij, PESACH met Charoseth en Gremsjelies, met overhandigen [receptenboek](https://cooking-classes.github.io/files/20251703%20versie%201%20Joodse%20feesten%20en%20recepten.pdf), Trudocentrum Assebroek, 5 april en 3 mei 2025.
 * TEA_ART Weekend Cursus [‘Hebreeuws, Bijbelse taal, levende taal'](https://hebreeuwsmamre.wixsite.com/hebreeuwscursussen), SJAWOEOTH met kwarklintzes (flensjes), 24-25 mei 2025
+* TEA_ART Joodse feesten met proeverij, PESACH met Charoseth en Gremsjelies, met overhandigen [receptenboek](https://cooking-classes.github.io/files/20251703%20versie%201%20Joodse%20feesten%20en%20recepten.pdf), Trudocentrum Assebroek, 5 april en 3 mei 2025.
+* TEA_ART odse feesten met proeverij, POERIM met Hamanstaschen en Hamansoren, Trudocentrum Assebroek, 1 en 15 maart 2025. 
+* TEA_ART Joodse feesten met proeverij, CHANOUKA met Soufganiots (soort Berlijnse bollen), Trudocentrum Assebroek, 1 februari 2025.
 
 
 2024
