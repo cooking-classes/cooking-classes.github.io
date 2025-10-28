@@ -11,11 +11,14 @@ redirect_from:
 
 2025
 ======
+* TEA_ART Weekend Cursus Hebreeuws, Bijbelse taal, levende taal in Trudocentrum te Assebroek, CHANOEKA met Covrigi,  6 december 2025.
+* TEA_ART Weekend Cursus Hebreeuws, Bijbelse taal, levende taal in Trudocentrum te Assebroek, viskoekjes en Jeruzalem Boreka's,  22 november 2025.
+* TEA_ART Weekend Cursus Hebreeuws, Bijbelse taal, levende taal in Trudocentrum te Assebroek, SABBATH met Galle en zelfgemaakte kweeperengelei,  4 oktober 2025.
+* Wandeling in het Miljoenenkwartier te Gent met 10 vrouwen rn Greta als gids. We eten en drinken thee in LAILA Tandoori op het Maria Hendrikaplein. 31 juli 2025.
 * TEA_ART Weekend Cursus [‘Hebreeuws, Bijbelse taal, levende taal'](https://hebreeuwsmamre.wixsite.com/hebreeuwscursussen), SJAWOEOTH met kwarklintzes (flensjes), 24-25 mei 2025
 * TEA_ART Joodse feesten met proeverij, PESACH met Charoseth en Gremsjelies, met overhandigen [receptenboek](https://cooking-classes.github.io/files/20251703%20versie%201%20Joodse%20feesten%20en%20recepten.pdf), Trudocentrum Assebroek, 5 april en 3 mei 2025.
 * TEA_ART odse feesten met proeverij, POERIM met Hamanstaschen en Hamansoren, Trudocentrum Assebroek, 1 en 15 maart 2025. 
 * TEA_ART Joodse feesten met proeverij, CHANOUKA met Soufganiots (soort Berlijnse bollen), Trudocentrum Assebroek, 1 februari 2025.
-
 
 2024
 ======
